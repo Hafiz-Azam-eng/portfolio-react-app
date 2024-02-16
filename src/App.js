@@ -7,7 +7,7 @@ import Techstack from "./pages/Techstack/Techstack";
 import WorkExp from "./pages/workExp/WorkExp";
 import ScrollToTop from "react-scroll-to-top";
 import { useTheme } from "./context/ThemeContext";
-import Tada from "react-reveal/Tada";
+// import Tada from "react-reveal/Tada";
 import MobileNav from "./components/MobileNav/MobileNav";
 import '@fortawesome/fontawesome-free/css/all.css';
 
@@ -35,9 +35,9 @@ function App() {
       </BrowserRouter>
 
       <div className="footer pb-3 ms-3">
-        <Tada>
+        {/* <Tada> */}
           <h4 className="text-center">Made With Hafiz &copy; 2024</h4>
-        </Tada>
+        {/* </Tada> */}
       </div>
 
       <ScrollToTop

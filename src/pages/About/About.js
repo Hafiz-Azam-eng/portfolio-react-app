@@ -1,11 +1,11 @@
 import React from "react";
 import "./About.css";
-import Jump from "react-reveal/Jump";
+// import Jump from "react-reveal/Jump";
 import img from "../../images/profileimg.jpg"
 const About = () => {
   return (
     <>
-      <Jump>
+      {/* <Jump> */}
         <div className="about" id="about">
           <div className="row">
             <div className="col-md-4 col-xl-4 col-lg-6 col-xs-12 about-img">
@@ -22,7 +22,7 @@ const About = () => {
             </div>
           </div>
         </div>
-      </Jump>
+      {/* </Jump> */}
     </>
   );
 };
