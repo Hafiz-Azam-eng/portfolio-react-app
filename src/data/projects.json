@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Quran Learning Management System.",
+    "imageSrc": "projects/qlms.png",
+    "description": "Developed a Quran Learning Management System using MERN stack and Tailwind CSS.",
+    "skills": ["MERN", "Tailwind CSS", "Redux","No-Sql"],
+    "demo": "https://portfolio-react-app-p6s3.vercel.app/",
+    "source": "https://github.com/Hafiz-Azam-eng/Quranic.git"
   },
   {
-    "title": "Project B",
+    "title": "Real Time Chat App",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Developed a real-time chat app with MERN stack and Socket.IO, enabling instant messaging and live updates.",
+    "skills": ["MERN", "Socket.io", "Tailwind CSS", "Sass"],
+    "demo": "https://portfolio-react-app-p6s3.vercel.app/",
+    "source": "https://github.com/Hafiz-Azam-eng/Quranic.git"
   },
   {
-    "title": "Project C",
+    "title": "Movie Review App",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Developed a dynamic Movie Review app using React and TMDB APIs",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://portfolio-react-app-p6s3.vercel.app/",
+    "source": "https://github.com/Hafiz-Azam-eng/Quranic.git"
   }
 ]
