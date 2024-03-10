@@ -9,7 +9,7 @@
   },
   {
     "title": "Real Time Chat App",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/qlms.png",
     "description": "Developed a real-time chat app with MERN stack and Socket.IO, enabling instant messaging and live updates.",
     "skills": ["MERN", "Socket.io", "Tailwind CSS", "Sass"],
     "demo": "https://portfolio-react-app-p6s3.vercel.app/",
@@ -17,7 +17,7 @@
   },
   {
     "title": "Movie Review App",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/qlms.png",
     "description": "Developed a dynamic Movie Review app using React and TMDB APIs",
     "skills": ["React", "Express", "Node"],
     "demo": "https://portfolio-react-app-p6s3.vercel.app/",
