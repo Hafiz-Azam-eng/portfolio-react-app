@@ -1,14 +1,14 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Worked on Google Maps"],
+    "role": "Final Year Project",
+    "organisation": "University",
+    "startDate": "Feb, 2023",
+    "endDate": "Feb, 2024",
+    "experiences": ["Worked on FrontEnd"],
     "imageSrc": "history/google.png"
   },
   {
-    "role": "UI Designer",
+    "role": "Real Time Chat App",
     "organisation": "Mirosoft",
     "startDate": "Aug, 2021",
     "endDate": "Aug, 2022",
